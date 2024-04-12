@@ -3,6 +3,10 @@
 Wonder Library is a library for all ages. Wonder Library would like one relational database to be able to smoothly carry out their work in an organized way. 
 This project required me to design the database and the final result is 20 Tables, 5 Views and 1 Trigger (This was for fun)
 
+# Technology Used
+1. MySQL
+2. MIRO (For EER diagram)
+
 # Steps
 This project was carried out in 3 phases,
 1. Phase 1: This was the phase were the requirements of the Wonder library was captured and understood. From this requirement I build an EER diagram.
