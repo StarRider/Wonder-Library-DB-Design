@@ -14,5 +14,5 @@ This project was carried out in 3 phases,
 3. `Phase 3`: Finally, created tables and views following the relational schema diagram.
 
 # How to read this project?
-1. Go through the "CS 6360 Database Design Term Project" document to understand the requirements and details about Phase 1,2 and 3.
-2. Read the "Project_Phase_4" to see the implementations. (The EER diagram was done in MIRO website, it's link is in this doc)
+1. Go through the "Wonder Library Requirements" document to understand the requirements and details about Phase 1,2 and 3.
+2. Read the "Implementation Report" to see the implementations. (The EER diagram was done in MIRO website, it's link is in this doc)
