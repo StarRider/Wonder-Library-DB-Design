@@ -1,0 +1,14 @@
+# Wonder Library DB Design
+
+Wonder Library is a library for all ages. Wonder Library would like one relational database to be able to smoothly carry out their work in an organized way. 
+This project required me to design the database and the final result is 20 Tables, 5 Views and 1 Trigger (This was for fun)
+
+# Steps
+This project was carried out in 3 phases,
+1. Phase 1: This was the phase were the requirements of the Wonder library was captured and understood. From this requirement I build an EER diagram.
+2. Phase 2: Created a relational schema from the EER diagram also I ensured that the tables were in 3NF.
+3. Phase 3: Finally, created tables and views following the relational schema diagram.
+
+# How to read this project?
+1. Go through the "CS 6360 Database Design Term Project" document to understand the requirements and details about Phase 1,2 and 3.
+2. Read the "Project_Phase_4" to see the implementations. (The EER diagram was done in MIRO website, it's link is in this doc)
